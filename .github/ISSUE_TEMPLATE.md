@@ -24,7 +24,6 @@
 | react-navigation             |
 | react-navigation-tabs        |
 | react-native-reanimated      |
-| react-native-gesture-handler |
 | react-native-screens         |
 | react-native                 |
 | expo                         |
